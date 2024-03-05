@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sahil200305
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on github
+- 💞️ I’m looking to collaborate on Microsoft
 - 📫  reach me :- sahilrouthan1234@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
